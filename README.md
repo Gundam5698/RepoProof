@@ -7,4 +7,5 @@ The wolf_with_animations was created by 3dhaupt: https://sketchfab.com/3d-models
 
 The robot was created by Victor Gonzalez: https://sketchfab.com/3d-models/robot-victor-gonzalez-8737e5f54f454a01a15fe54c0e4843f3 with License CC Attribution: https://creativecommons.org/licenses/by/4.0/
 
-The free_insect_animation_for_vfx_and_more was created by Lenin Jimenez : https://sketchfab.com/3d-models/free-insect-animation-for-vfx-and-more-a774aa58ed5c4bcf958bab488ba0d1a1 with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ . For this repository I downloaded the Converted format gltf model. 
+The Party Starter - Layered T-Shirts was created by RealityRoller : https://sketchfab.com/3d-models/party-starter-layered-t-shirts-fbfa86ea615e4028b8ad400de902bfd4
+with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ . For this repository I downloaded the Converted format gltf model. 
