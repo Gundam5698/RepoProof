@@ -9,3 +9,5 @@ The robot was created by Victor Gonzalez: https://sketchfab.com/3d-models/robot-
 
 The Party Starter - Layered T-Shirts was created by RealityRoller : https://sketchfab.com/3d-models/party-starter-layered-t-shirts-fbfa86ea615e4028b8ad400de902bfd4
 with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ . For this repository I downloaded the Converted format gltf model. 
+
+The Whulvk Werewolf Lycan - Blockbench was created by DrageonDb : https://sketchfab.com/3d-models/whulvk-werewolf-lycan-blockbench-043c1c55d5c046749bee1c9173ad61ef with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ .
