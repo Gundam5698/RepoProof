@@ -1,5 +1,5 @@
 # RepoProof
-This repository contains different free gltf models I found on Sketchfab, and several free MP3 files.
+This repository contains different free gltf models I found on Sketchfab, and several free files.
 
 I do not own, I have not created, and I have not modified ANY of these files.  
 
@@ -12,4 +12,4 @@ with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ . For 
 
 The Whulvk Werewolf Lycan - Blockbench was created by DrageonDb : https://sketchfab.com/3d-models/whulvk-werewolf-lycan-blockbench-043c1c55d5c046749bee1c9173ad61ef with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ .
 
-The cardinal-37075.mp3 was created by Pixabay.
+
