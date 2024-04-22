@@ -12,4 +12,6 @@ with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ . For 
 
 The Whulvk Werewolf Lycan - Blockbench was created by DrageonDb : https://sketchfab.com/3d-models/whulvk-werewolf-lycan-blockbench-043c1c55d5c046749bee1c9173ad61ef with License CC Attribution: https://creativecommons.org/licenses/by/4.0/ .
 
+The Terrarium Bot: "Terrarium_Bot_Rebuild[gltf]" (https://sketchfab.com/3d-models/terrarium-bot-rebuildgltf-64d4f5289f46475681a1be47078cf927) by Rostenbach (https://sketchfab.com/Rostenbach) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
 
